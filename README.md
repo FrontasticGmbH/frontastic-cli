@@ -1,5 +1,5 @@
-# frontasticli (bodyless head development)
+# Frontastic-CLI (bodyless head development)
 
-*frontasticli is the central tool to develop digital moments on basis of Frontastic without running a backend service locally.*
+*Frontastic-CLI is the central tool to develop digital moments on basis of Frontastic without running a backend service locally.*
 
-For further information please refer to our [online documentation](https://docs.frontastic.cloud/article/171-bodyless-head). The latest versions of frontasticli can be found in the [release section](https://github.com/FrontasticGmbH/frontasticli/releases).
+For further information please refer to our [online documentation](https://docs.frontastic.cloud/article/171-bodyless-head). The latest versions of Frontastic-CLI can be found in the [release section](https://github.com/FrontasticGmbH/frontastic-cli/releases).
